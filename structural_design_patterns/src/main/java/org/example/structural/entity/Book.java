@@ -24,7 +24,6 @@ public class Book implements BookDecorator {
     String author;
     double price;
 
-    // TODO: Implement description and price methods
     public String getDescription() {
         return title + " by " + author;
     }

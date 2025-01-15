@@ -9,7 +9,6 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
-        <module>creational_design_patterns</module>
         <module>structural_design_patterns</module>
     </modules>
 
